@@ -1,5 +1,6 @@
-package cydeo;
+package cydeo.stepDefs;
 
+import cydeo.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
 import io.cucumber.java.en.Given;
